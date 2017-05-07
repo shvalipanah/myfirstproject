@@ -2,7 +2,7 @@ LIBRARY IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use ieee.std_logic_signed.all;
 
-////////////////////////////////////////////////////hihi
+////////////////////////////////////////////////////hihihhhhhh
 ENTITY FIFO IS
 PORT ( In_Data: IN std_logic_vector(7 DOWNTO 0);
        Out_Data: OUT std_logic_vector(7 DOWNTO 0);
